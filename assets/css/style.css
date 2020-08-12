@@ -1,21 +1,22 @@
 
-
 #panel {
 
     text-decoration: none;
     padding: 12px 28px;
     font-size: 13px;
     line-height: 13px;
-
     color: #fff;
+    margin: auto;
     background: transparent;
     border-radius: 8px;
     border: 1px solid #fff;
 }
 
-#login2{
+
+#login6 {
 
     padding: 12px 28px;
+    margin-left: 15px;
     font-size: 13px;
     line-height: 13px;
     color: #6fd6ce;
@@ -23,34 +24,30 @@
     border-radius: 8px;
     border: 1px solid #fff;
 }
-#span1{
 
-    width: 100%;
-    max-width: 375px;
-    margin-right: 210px;
-    font-family: Tahoma, sans-serif;
-    font-weight: bolder;
-}
-#span2{
+
+#span5{
 
     width: 100%;
     font-size: 20px;
+    margin: auto;
     font-family: Arial, sans-serif;
     max-width: 375px;
-    margin-right: 210px;
+
 
 }
-#login3{
+
+#login3 {
 
     border-radius: 8px;
-    -webkit-box-shadow: 0 6px 12px 0 rgba(87,207,177,.3);
-    box-shadow: 0 6px 12px 0 rgba(87,207,177,.3);
+    margin: auto;
+    -webkit-box-shadow: 0 6px 12px 0 rgba(87, 207, 177, .3);
+    box-shadow: 0 6px 12px 0 rgba(87, 207, 177, .3);
     background: #57cfb1;
     color: #fff;
-
     text-align: right;
     font-size: 16px;
     height: 48px;
     padding: 12px 20px;
-    margin-top: 30px;
+
 }
